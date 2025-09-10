@@ -24,7 +24,9 @@ The goal is simple: if text carries subtle emotional cues, can we teach a model 
 4. **Frontend (app.py)** – Users can input text in a simple **Streamlit interface** to get real-time predictions.
 
 ##Architecture Diagram
+
 <img width="373" height="807" alt="Architecture" src="https://github.com/user-attachments/assets/c4b7cc8a-ef0f-4205-be08-dd14006bb633" />
+
 
 
 ##Usage
